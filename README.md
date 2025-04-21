@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** Freelancer | Curioso por **Tecnologia**, **Inovação** e **Inteligência Artificial Generativa**
 
-Gosto de desafios e acredito na força da colaboração. Procuro sempre contribuir com a comunidade tech, seja em projetos open source, compartilhando conhecimento o trocando experiências com outros profissionais.
+Gosto de desafios e acredito na força da colaboração. Procuro sempre contribuir com a comunidade tech, seja em projetos open source, compartilhando conhecimento ou trocando experiências com outros profissionais.
 
 ## Atuação Profissional
 - Atuo como **Desenvolvedor Full Stack** freelancer, o que me permite explorar diferentes tipos de projetos, sempre buscando soluções criativas e eficientes para cada desafio.
